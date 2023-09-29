@@ -1,0 +1,32 @@
+body {
+  width: 400px;
+  margin: 25px auto;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.85);
+  border-radius: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  text-align: center;
+  background-color: rgba(206, 35, 35, 0.85);
+  border-radius: 15px;
+}
+h2 {
+  text-align: center;
+  background-color: rgba(240, 67, 217, 0.85);
+  border-radius: 15px;
+}
+p {
+  background-color: rgba(37, 177, 212, 0.85);
+  border-radius: 15px;
+}
+h3 {
+  text-align: center;
+  background-color: rgba(240, 67, 217, 0.85);
+  border-radius: 15px;
+}
+Ul {
+  text-align: center;
+  background-color: rgba(67, 240, 104, 0.85);
+  border-radius: 15px;
+}
